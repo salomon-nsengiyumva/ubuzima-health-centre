@@ -4,8 +4,8 @@
 export const clinic = {
   name: "Ubuzima Health Centre",
   tagline: "Your health, our mission",
-  phone:"+250 788 123 456",
-  whatsapp:"25079537105", // international format, no "+" or spaces
+  phone:"+250 722 408 445",
+  whatsapp:"0795371057", // international format, no "+" or spaces
   email: "ubuzimahealthcentre@gmail.com",
   address: "KG 7 Ave, Kimihurura, Kigali",
   mapUrl: "https://www.google.com/maps?q=Kimihurura,Kigali&output=embed",

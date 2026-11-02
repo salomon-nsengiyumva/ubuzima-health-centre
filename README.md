@@ -1,8 +1,8 @@
-# Akira Family Clinic — React Website (Portfolio Project)
+# Ubuzima Health Centre.
 
 A modern, responsive website for a **fictional** family clinic in Kigali, built with React + Vite.
 
-**Live demo:** _add your Netlify/Vercel link here_
+**Live demo:**[ _add your Netlify/Vercel link here_](https://ubuzima-health-centre.vercel.app/)
 
 ## Features
 - Responsive design (mobile menu, works on all screen sizes)
