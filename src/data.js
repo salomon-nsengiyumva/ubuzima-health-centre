@@ -21,8 +21,8 @@ export const services = [
 ];
 
 export const doctors = [
-  { name: "Dr.  Aline Uwase", role: "General Practitioner" },
-  { name: "Dr. Eric Mugish", role: "Paediatrician" },
+  { name: "Dr. Salomon Nsengiyumva", role: "General Practitioner" },
+  { name: "Dr. Eric Mugisha", role: "Paediatrician" },
   { name: "Dr. Grace Ingabire", role: "Gynaecologist" },
   { name: "Dr. Jean Habimana", role: "Dentist" },
 ];
