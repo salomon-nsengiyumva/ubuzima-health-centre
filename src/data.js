@@ -5,7 +5,7 @@ export const clinic = {
   name: "Ubuzima Health Centre",
   tagline: "Your health, our mission",
   phone:"+250 722 408 445",
-  whatsapp:"0795371057", // international format, no "+" or spaces
+  whatsapp:"250795371057", // international format, no "+" or spaces
   email: "ubuzimahealthcentre@gmail.com",
   address: "KG 7 Ave, Kimihurura, Kigali",
   mapUrl: "https://www.google.com/maps?q=Kimihurura,Kigali&output=embed",
@@ -21,8 +21,8 @@ export const services = [
 ];
 
 export const doctors = [
-  { name: "Dr. Salomon Nsengiyumva", role: "General Practitioner" },
-  { name: "Dr. Evan Rurangwa", role: "Paediatrician" },
+  { name: "Dr.  Aline Uwase", role: "General Practitioner" },
+  { name: "Dr. Eric Mugish", role: "Paediatrician" },
   { name: "Dr. Grace Ingabire", role: "Gynaecologist" },
   { name: "Dr. Jean Habimana", role: "Dentist" },
 ];
